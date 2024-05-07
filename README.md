@@ -59,3 +59,4 @@ if __name__ == "__main__":
     for i in main(5):
         print(i)
     print(datetime.now().time())
+# Generators
